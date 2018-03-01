@@ -1,0 +1,48 @@
+/*
+ * globalstruct.h
+ *
+ *  Created on: Apr 11, 2011
+ *      Author: Velu
+ */
+
+#ifndef GLOBALSTRUCT_H_
+#define GLOBALSTRUCT_H_
+
+
+#include <unistd.h>
+#include <stdlib.h>
+#include <errno.h>
+#include <stdio.h>
+#include <string.h>
+#include <qdb/qdb.h>
+#include <sys/neutrino.h>
+#include <time.h>
+
+typedef struct
+{
+	int  label; // label of the iu card or cash card or comp card
+	char *type;  // IU or CA or CO
+	char *user;  // S or H or F
+	int entry_hr; // enter the hour
+	int entry_mn; // enter the minute
+	int exit_hr; // enter the hour
+	int exit_mn; // enter the minute
+	int month;   // required for season user
+	int AvailAmount1; // dollar
+	int AvailAmount2; // cent
+	int DeductAmount1; // dollar
+	int DeductAmount2; // cent
+	unsigned char g_id;
+}DB_OP;
+
+extern DB_OP  *db;
+
+
+
+
+int DB_ValidateEntry(DB_OP *);
+int DB_WriteEntry(DB_OP *);
+int SelectDatabase(DB_OP *);
+//int DeleteDatabase(DB_OP *);
+
+#endif /* GLOBALSTRUCT_H_ */

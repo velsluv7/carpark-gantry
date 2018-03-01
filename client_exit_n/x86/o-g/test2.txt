@@ -1,0 +1,117 @@
+Welcome to the QNX Momentics IDE
+this is application process and the pid = 3543085
+Before while in Application 
+Application : State is 0 
+msgid is 41
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "Application can now start".
+Application : MEssage ID is 65 
+Message was "Application can now start".
+Comparision result is 0, 
+Application : State is 1 
+msgid is 2
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "".
+Application : MEssage ID is 2 
+In state 1 and the message was "".
+msgid is 2
+8
+Before Gantry
+msgid is 2
+8
+Vehicle Present
+In display 
+In display after copying demarcate 
+In display case 1 
+String that will be displayed is $Welcome to Carpark, 
+Display message is "$Welcome to Carpark".
+Application : State is 2 
+msgid is 4
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "ù4 ".
+Application : MEssage ID is 4 
+In state 2 and the message was "ù4 ". Msg id is 4
+msgid is 4
+msgid is 4
+IU Label is 1d34
+Label is 7476
+ the query = SELECT * FROM optable WHERE label = 7476;
+ successfully connected
+ query successfully executed
+ the result is obtained successfully
+ entry in table
+ the row is 0
+ label is 1d34 
+ 
+ Season user 
+ database operation, value returned is 1, 
+msgid is 4
+msgid is 4
+IU Label is 1d34
+Label is 7476
+ the query = SELECT * FROM optable WHERE label = 7476;
+ successfully connected
+ query successfully executed
+ the result is obtained successfully
+ entry in table
+ the row is 0
+ label is 1d34 
+ 
+ Season user 
+ database operation, value returned is 1, 
+In display 
+In display after copying demarcate 
+String that will be displayed is $Welcome season user:, 
+Application : State is 3 
+msgid is 3
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "ê4 ".
+Application : MEssage ID is 3 
+In state 3 and the message was "ê4 ".
+msgid is 3
+90
+Obstacle Detected
+In display 
+In display after copying demarcate 
+String that will be displayed is $Please wait..., 
+Application : State is 4 
+msgid is 2
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "4 ".
+Application : MEssage ID is 2 
+In state 4 and the message was "4 ".
+msgid is 2
+18
+After Gantry
+msgid is 2
+18
+Vehicle Present
+In display 
+In display after copying demarcate 
+String that will be displayed is $Please wait..., 
+Application : State is 5 
+msgid is 3
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "Ä4 ".
+Application : MEssage ID is 3 
+In state 5 and the message was "Ä4 ".
+msgid is 3
+80
+Obstacle Not Detected
+In display 
+In display after copying demarcate 
+String that will be displayed is $Please proceed, 
+Application : State is 6 
+msgid is 2
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "4 ".
+Application : MEssage ID is 2 
+In state 6 and the message was "4 ".
+msgid is 2
+10
+After Gantry
+msgid is 2
+10
+Vehicle Absent
+In display 
+In display after copying demarcate 

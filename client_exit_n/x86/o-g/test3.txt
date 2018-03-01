@@ -1,0 +1,109 @@
+Welcome to the QNX Momentics IDE
+this is application process and the pid = 3743791
+Before while in Application 
+Application : State is 0 
+msgid is 41
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "Application can now start".
+Application : MEssage ID is 65 
+Message was "Application can now start".
+Comparision result is 0, 
+Application : State is 1 
+msgid is 2
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "".
+Application : MEssage ID is 2 
+In state 1 and the message was "".
+msgid is 2
+8
+Before Gantry
+msgid is 2
+8
+Vehicle Present
+In display 
+In display after copying demarcate 
+In display case 1 
+String that will be displayed is $Welcome to Carpark, 
+Display message is "$Welcome to Carpark".
+Application : State is 2 
+msgid is 6
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "ûV0p".
+Application : MEssage ID is 6 
+In state 2 and the message was "ûV0p". Msg id is 6
+
+ Welcome Cash card user 
+msgid is 6
+msgid is 6
+IU Label is 1e56
+IU Label is 7766
+6677Label is 7766
+ the query = SELECT * FROM optable WHERE label = 7766;
+ successfully connected
+ query successfully executed
+ the result is obtained successfully
+ entry in table
+ the row is 0
+ label is 1e56 
+database operation, value returned is 0, 
+Entry hour = 16; Exit hour = 17Entry min = 26; Exit min = 54
+ total hours = 1
+
+
+The charge is 0.88
+
+ Gantry id is 4 
+Temp is 7 80 8
+
+
+From the application side 7 80 8
+
+In display 
+In display after copying demarcate 
+In Display Cash deducted is: 
+String that will be displayed is $Cash deducted is:, 
+msgid is 0
+Application : Got a message from Photon, rcvid is 3
+Application : MEssage ID is 0 
+Cash deducted is 0.0
+Application : State is 3 
+msgid is 11
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "ÄV0p".
+Application : MEssage ID is 17 
+In state 3 and the message s from ticket dispenser "11 ffffff80".
+data1 b4 the compiled messge is 4temp[1] in the compiled messge is 80temp[1] in the compiled messge after label addition is 9eTemp is b 9e 56 30 70 8 16 26 17 54 
+Application : State is 3 
+msgid is 3
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "êV0p".
+Application : MEssage ID is 3 
+In state 3 and the message was "êV0p".
+msgid is 3
+90
+Obstacle Detected
+In display 
+In display after copying demarcate 
+String that will be displayed is $Please wait..., 
+Application : State is 4 
+msgid is 2
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "V0p".
+Application : MEssage ID is 2 
+In state 4 and the message was "V0p".
+msgid is 2
+18
+After Gantry
+msgid is 2
+18
+Vehicle Present
+In display 
+In display after copying demarcate 
+String that will be displayed is $Please wait..., 
+Application : State is 5 
+msgid is 3
+Application : Got a message from Photon, rcvid is 3
+Application : IN while in Application "ÄV0p".
+Application : MEssage ID is 3 
+In state 5 and the message was "ÄV0p".
+msgid is 3
